@@ -1,5 +1,5 @@
-[🔴 Live Demo](https://your-live-link-here.com)
-[📦 GitHub Repository](https://github.com/your-username/markdown-html-converter)
+[🔴 Live Demo](https://rustom-yadav.github.io/markdown-to-html-converter-/)
+[📦 GitHub Repository](https://github.com/Rustom-yadav/markdown-to-html-converter-)
 
 ---
 
